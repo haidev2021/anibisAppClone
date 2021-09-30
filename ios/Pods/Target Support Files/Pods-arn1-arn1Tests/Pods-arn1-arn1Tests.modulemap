@@ -1,0 +1,6 @@
+module Pods_arn1_arn1Tests {
+  umbrella header "Pods-arn1-arn1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
